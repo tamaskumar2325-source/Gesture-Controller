@@ -1,0 +1,27 @@
+{
+  "camera_index": 1,
+  "flip_camera": true,
+  "target_width": 640,
+  "target_height": 480,
+  "min_detection_conf": 0.6,
+  "min_tracking_conf": 0.5,
+  "grace_frames": 8,
+  "active_box": [
+    0.15,
+    0.15,
+    0.85,
+    0.85
+  ],
+  "cursor_smoothing": 0.35,
+  "kalman_process_noise": 0.02,
+  "kalman_measurement_noise": 0.4,
+  "pinch_threshold": 0.045,
+  "pinch_release_threshold": 0.06,
+  "click_max_hold_time": 0.35,
+  "open_finger_thresh": 4,
+  "scroll_sensitivity": 18.0,
+  "scroll_deadzone": 0.004,
+  "zoom_sensitivity": 60.0,
+  "zoom_deadzone": 0.004,
+  "show_camera_window": true
+}
